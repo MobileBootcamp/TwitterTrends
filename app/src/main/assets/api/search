@@ -1,5 +1,4 @@
-{
-  "statuses":  [
+[
      {
       "metadata":  {
         "iso_language_code": "en",
@@ -2444,16 +2443,4 @@
       "retweeted": false,
       "lang": "en"
     }
-  ],
-  "search_metadata":  {
-    "completed_in": 0.035,
-    "max_id": 530770310380154900,
-    "max_id_str": "530770310380154880",
-    "next_results": "?max_id=529256764404170751&q=%23WordsThatDescribeMe&include_entities=1",
-    "query": "%23WordsThatDescribeMe",
-    "refresh_url": "?since_id=530770310380154880&q=%23WordsThatDescribeMe&include_entities=1",
-    "count": 15,
-    "since_id": 0,
-    "since_id_str": "0"
-  }
-}
+]
