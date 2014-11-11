@@ -1,0 +1,2459 @@
+{
+  "statuses":  [
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Fri Nov 07 17:14:37 +0000 2014",
+      "id": 530770310380154900,
+      "id_str": "530770310380154880",
+      "text": "Fine and full figured! #wordsthatdescribeme #ConfidenceFromWithin",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 54392703,
+        "id_str": "54392703",
+        "name": "April Carter",
+        "screen_name": "luvdadimples",
+        "location": "Everywhere!",
+        "profile_location": null,
+        "description": "Stage Manager, personal assistant, vocalist, actress, oranization consultant! I can do it all!",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 276,
+        "friends_count": 700,
+        "listed_count": 3,
+        "created_at": "Tue Jul 07 00:43:30 +0000 2009",
+        "favourites_count": 28,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5647,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530166576826580992/sWkG5j3x_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530166576826580992/sWkG5j3x_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54392703/1395590479",
+        "profile_link_color": "5C0099",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "wordsthatdescribeme",
+            "indices":  [
+              23,
+              43
+            ]
+          },
+           {
+            "text": "ConfidenceFromWithin",
+            "indices":  [
+              44,
+              65
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "created_at": "Thu Nov 06 15:24:41 +0000 2014",
+      "id": 530380256583381000,
+      "id_str": "530380256583380993",
+      "text": "@le_dylon #WordsThatDescribeMe",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 530380066698854400,
+      "in_reply_to_status_id_str": "530380066698854401",
+      "in_reply_to_user_id": 395109002,
+      "in_reply_to_user_id_str": "395109002",
+      "in_reply_to_screen_name": "le_dylon",
+      "user":  {
+        "id": 106897692,
+        "id_str": "106897692",
+        "name": "NOVEMBER",
+        "screen_name": "ThisIsNovember",
+        "location": "Philly/Ottawa",
+        "profile_location": null,
+        "description": "ARTIST. Plastic Punk out 11/14/2014",
+        "url": "https://t.co/HiGQHs4mG7",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/HiGQHs4mG7",
+                "expanded_url": "https://soundcloud.com/this-is-november",
+                "display_url": "soundcloud.com/this-is-novemb…",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 523,
+        "friends_count": 286,
+        "listed_count": 5,
+        "created_at": "Thu Jan 21 01:01:56 +0000 2010",
+        "favourites_count": 758,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21203,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/84224470/new-york-city-skyline.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/84224470/new-york-city-skyline.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523262892054167552/BF4lub6j_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523262892054167552/BF4lub6j_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106897692/1406051996",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              10,
+              30
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "le_dylon",
+            "name": "Dylan Young",
+            "id": 395109002,
+            "id_str": "395109002",
+            "indices":  [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "ht",
+        "result_type": "recent"
+      },
+      "created_at": "Thu Nov 06 03:24:09 +0000 2014",
+      "id": 530198927258030100,
+      "id_str": "530198927258030080",
+      "text": "RT @RyanLochte: #wordsthatdescribeme ..... Its "Ryan Lochte" jeah!",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 2516342505,
+        "id_str": "2516342505",
+        "name": "ashley",
+        "screen_name": "tomIinwoIf",
+        "location": "",
+        "profile_location": null,
+        "description": "i was pillowquiff 0/5 im a fucking nerd",
+        "url": "https://t.co/qtWlvy9jHa",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/qtWlvy9jHa",
+                "expanded_url": "https://twitter.com/pillowquiff/status/512454315135733760",
+                "display_url": "twitter.com/pillowquiff/st…",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 727,
+        "friends_count": 206,
+        "listed_count": 4,
+        "created_at": "Tue Apr 29 07:12:31 +0000 2014",
+        "favourites_count": 13525,
+        "utc_offset": -14400,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18043,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530994283332268032/Gs2wzKKk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530994283332268032/Gs2wzKKk_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2516342505/1414042413",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "ht",
+          "result_type": "recent"
+        },
+        "created_at": "Sun Jun 19 21:25:45 +0000 2011",
+        "id": 82559717154635780,
+        "id_str": "82559717154635776",
+        "text": "#wordsthatdescribeme ..... Its "Ryan Lochte" jeah!",
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 35348026,
+          "id_str": "35348026",
+          "name": "Ryan Lochte",
+          "screen_name": "RyanLochte",
+          "location": "",
+          "profile_location": null,
+          "description": "Go Big or Go Home!",
+          "url": "http://t.co/mr7RfnXvYk",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/mr7RfnXvYk",
+                  "expanded_url": "http://www.ryanlochte.com",
+                  "display_url": "ryanlochte.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 1196222,
+          "friends_count": 343,
+          "listed_count": 4283,
+          "created_at": "Sun Apr 26 00:04:07 +0000 2009",
+          "favourites_count": 19,
+          "utc_offset": -18000,
+          "time_zone": "Quito",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 5782,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "364F8A",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/828176250/8ea977236df5530321cbab9140426a5c.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/828176250/8ea977236df5530321cbab9140426a5c.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3280183972/447cca2dcd16160949557e31c981b62b_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3280183972/447cca2dcd16160949557e31c981b62b_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/35348026/1412861126",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 23,
+        "favorite_count": 12,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "wordsthatdescribeme",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ht"
+      },
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "wordsthatdescribeme",
+            "indices":  [
+              16,
+              36
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "RyanLochte",
+            "name": "Ryan Lochte",
+            "id": 35348026,
+            "id_str": "35348026",
+            "indices":  [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ht"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "ht",
+        "result_type": "recent"
+      },
+      "created_at": "Thu Nov 06 03:23:11 +0000 2014",
+      "id": 530198681656389600,
+      "id_str": "530198681656389632",
+      "text": "RT @RyanLochte: #wordsthatdescribeme ..... Its "Ryan Lochte" jeah!",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 2462748433,
+        "id_str": "2462748433",
+        "name": "abbey",
+        "screen_name": "ripgryIes",
+        "location": "",
+        "profile_location": null,
+        "description": "@Harry_Styles fuck everyone else I respect you",
+        "url": "https://t.co/uhiHIkppB8",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/uhiHIkppB8",
+                "expanded_url": "https://twitter.com/pillowquiff/status/516290888398798848",
+                "display_url": "twitter.com/pillowquiff/st…",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 708,
+        "friends_count": 108,
+        "listed_count": 8,
+        "created_at": "Fri Apr 25 05:41:18 +0000 2014",
+        "favourites_count": 18638,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 36137,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530954814885470208/hVYUjndM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530954814885470208/hVYUjndM_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2462748433/1412133967",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "ht",
+          "result_type": "recent"
+        },
+        "created_at": "Sun Jun 19 21:25:45 +0000 2011",
+        "id": 82559717154635780,
+        "id_str": "82559717154635776",
+        "text": "#wordsthatdescribeme ..... Its "Ryan Lochte" jeah!",
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 35348026,
+          "id_str": "35348026",
+          "name": "Ryan Lochte",
+          "screen_name": "RyanLochte",
+          "location": "",
+          "profile_location": null,
+          "description": "Go Big or Go Home!",
+          "url": "http://t.co/mr7RfnXvYk",
+          "entities":  {
+            "url":  {
+              "urls":  [
+                 {
+                  "url": "http://t.co/mr7RfnXvYk",
+                  "expanded_url": "http://www.ryanlochte.com",
+                  "display_url": "ryanlochte.com",
+                  "indices":  [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 1196222,
+          "friends_count": 343,
+          "listed_count": 4283,
+          "created_at": "Sun Apr 26 00:04:07 +0000 2009",
+          "favourites_count": 19,
+          "utc_offset": -18000,
+          "time_zone": "Quito",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 5782,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "364F8A",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/828176250/8ea977236df5530321cbab9140426a5c.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/828176250/8ea977236df5530321cbab9140426a5c.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3280183972/447cca2dcd16160949557e31c981b62b_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3280183972/447cca2dcd16160949557e31c981b62b_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/35348026/1412861126",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 23,
+        "favorite_count": 12,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "wordsthatdescribeme",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ht"
+      },
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "wordsthatdescribeme",
+            "indices":  [
+              16,
+              36
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "RyanLochte",
+            "name": "Ryan Lochte",
+            "id": 35348026,
+            "id_str": "35348026",
+            "indices":  [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ht"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Nov 05 20:33:54 +0000 2014",
+      "id": 530095685627293700,
+      "id_str": "530095685627293696",
+      "text": "RT @johndavies563: #WordsThatDescribeMe builder",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 892373136,
+        "id_str": "892373136",
+        "name": "️",
+        "screen_name": "daddygiIinsky",
+        "location": "",
+        "profile_location": null,
+        "description": "yikes lmao",
+        "url": "https://t.co/6mTEPR9JNW",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/6mTEPR9JNW",
+                "expanded_url": "https://vine.co/v/M9ZTjDHFLUW",
+                "display_url": "vine.co/v/M9ZTjDHFLUW",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 4591,
+        "friends_count": 101,
+        "listed_count": 40,
+        "created_at": "Sat Oct 20 03:31:36 +0000 2012",
+        "favourites_count": 45441,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 119917,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530851142155395072/Hjr7DU2L_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530851142155395072/Hjr7DU2L_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/892373136/1415399751",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Aug 24 16:39:11 +0000 2012",
+        "id": 239039159539466240,
+        "id_str": "239039159539466240",
+        "text": "#WordsThatDescribeMe builder",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 750499362,
+          "id_str": "750499362",
+          "name": "John Davies",
+          "screen_name": "johndavies563",
+          "location": "",
+          "profile_location": null,
+          "description": "Hi , im John and im a builder in the uk. bisexual. i enjoy elvis. I'm not a paedophile! I'm a builder!!! Haha",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 1200,
+          "friends_count": 4,
+          "listed_count": 3,
+          "created_at": "Sat Aug 11 02:42:33 +0000 2012",
+          "favourites_count": 66,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 190,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2490769348/john_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2490769348/john_normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 24,
+        "favorite_count": 3,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "WordsThatDescribeMe",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 24,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              19,
+              39
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "johndavies563",
+            "name": "John Davies",
+            "id": 750499362,
+            "id_str": "750499362",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Nov 05 20:33:50 +0000 2014",
+      "id": 530095667260444700,
+      "id_str": "530095667260444672",
+      "text": "RT @johndavies563: #WordsThatDescribeMe sexy",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 892373136,
+        "id_str": "892373136",
+        "name": "️",
+        "screen_name": "daddygiIinsky",
+        "location": "",
+        "profile_location": null,
+        "description": "yikes lmao",
+        "url": "https://t.co/6mTEPR9JNW",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/6mTEPR9JNW",
+                "expanded_url": "https://vine.co/v/M9ZTjDHFLUW",
+                "display_url": "vine.co/v/M9ZTjDHFLUW",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 4591,
+        "friends_count": 101,
+        "listed_count": 40,
+        "created_at": "Sat Oct 20 03:31:36 +0000 2012",
+        "favourites_count": 45441,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 119917,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530851142155395072/Hjr7DU2L_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530851142155395072/Hjr7DU2L_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/892373136/1415399751",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Fri Aug 24 15:19:38 +0000 2012",
+        "id": 239019142185881600,
+        "id_str": "239019142185881600",
+        "text": "#WordsThatDescribeMe sexy",
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 750499362,
+          "id_str": "750499362",
+          "name": "John Davies",
+          "screen_name": "johndavies563",
+          "location": "",
+          "profile_location": null,
+          "description": "Hi , im John and im a builder in the uk. bisexual. i enjoy elvis. I'm not a paedophile! I'm a builder!!! Haha",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 1200,
+          "friends_count": 4,
+          "listed_count": 3,
+          "created_at": "Sat Aug 11 02:42:33 +0000 2012",
+          "favourites_count": 66,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 190,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2490769348/john_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2490769348/john_normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 67,
+        "favorite_count": 16,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "WordsThatDescribeMe",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 67,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              19,
+              39
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "johndavies563",
+            "name": "John Davies",
+            "id": 750499362,
+            "id_str": "750499362",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Nov 05 15:10:24 +0000 2014",
+      "id": 530014271045107700,
+      "id_str": "530014271045107712",
+      "text": "RT @mdarkvoldemort: #WordsThatDescribeMe: There are no words.",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 261385983,
+        "id_str": "261385983",
+        "name": "Jimena Ortiz.",
+        "screen_name": "JiimenaOrtiz",
+        "location": "Magdalena  ",
+        "profile_location": null,
+        "description": "Buena suerte, y más que suerte! -Si no hay amor, que no haya nada!! Vivir solo cuesta vida.- PR♛♥ \nhttp://t.co/ONpHNPk8mz",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/ONpHNPk8mz",
+                "expanded_url": "http://www.facebook.com/OrtizJimenaa",
+                "display_url": "facebook.com/OrtizJimenaa",
+                "indices":  [
+                  99,
+                  121
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 291,
+        "friends_count": 267,
+        "listed_count": 0,
+        "created_at": "Sat Mar 05 21:16:26 +0000 2011",
+        "favourites_count": 1080,
+        "utc_offset": -10800,
+        "time_zone": "Santiago",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3800,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/527531474786848768/41wa38Mu.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/527531474786848768/41wa38Mu.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530471283448758272/fBN4jVn0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530471283448758272/fBN4jVn0_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/261385983/1412708402",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Wed May 28 11:00:07 +0000 2014",
+        "id": 471606840535834600,
+        "id_str": "471606840535834624",
+        "text": "#WordsThatDescribeMe: There are no words.",
+        "source": "<a href="http://luufy.com" rel="nofollow">mdarkvoldemort</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 253016163,
+          "id_str": "253016163",
+          "name": "The Dark Lord",
+          "screen_name": "mdarkvoldemort",
+          "location": "Galaxy",
+          "profile_location": null,
+          "description": "I Kissed A Girl and I Liked It - Dementor",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 13943,
+          "friends_count": 6073,
+          "listed_count": 13,
+          "created_at": "Wed Feb 16 11:33:56 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 20802,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "709397",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442680597496877057/-j_WBF5K.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442680597496877057/-j_WBF5K.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/442680380470992896/nQQB1RG-_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/442680380470992896/nQQB1RG-_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/253016163/1394378219",
+          "profile_link_color": "FF3300",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "A0C5C7",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 23,
+        "favorite_count": 13,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "WordsThatDescribeMe",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 23,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              20,
+              40
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "mdarkvoldemort",
+            "name": "The Dark Lord",
+            "id": 253016163,
+            "id_str": "253016163",
+            "indices":  [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Nov 05 15:09:38 +0000 2014",
+      "id": 530014079424163840,
+      "id_str": "530014079424163840",
+      "text": "RT @beatles_lyrcs: #WordsThatDescribeMe Beatles Freak!",
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 261385983,
+        "id_str": "261385983",
+        "name": "Jimena Ortiz.",
+        "screen_name": "JiimenaOrtiz",
+        "location": "Magdalena  ",
+        "profile_location": null,
+        "description": "Buena suerte, y más que suerte! -Si no hay amor, que no haya nada!! Vivir solo cuesta vida.- PR♛♥ \nhttp://t.co/ONpHNPk8mz",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/ONpHNPk8mz",
+                "expanded_url": "http://www.facebook.com/OrtizJimenaa",
+                "display_url": "facebook.com/OrtizJimenaa",
+                "indices":  [
+                  99,
+                  121
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 291,
+        "friends_count": 267,
+        "listed_count": 0,
+        "created_at": "Sat Mar 05 21:16:26 +0000 2011",
+        "favourites_count": 1080,
+        "utc_offset": -10800,
+        "time_zone": "Santiago",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3800,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/527531474786848768/41wa38Mu.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/527531474786848768/41wa38Mu.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530471283448758272/fBN4jVn0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530471283448758272/fBN4jVn0_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/261385983/1412708402",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Wed Nov 05 15:00:22 +0000 2014",
+        "id": 530011746774564860,
+        "id_str": "530011746774564864",
+        "text": "#WordsThatDescribeMe Beatles Freak!",
+        "source": "<a href="http://mertmuratbal.com" rel="nofollow">beatles_lyrcs</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 310258146,
+          "id_str": "310258146",
+          "name": "The Beatles Lyrics",
+          "screen_name": "beatles_lyrcs",
+          "location": "Yesterday....",
+          "profile_location": null,
+          "description": "Your source for Beatle Facts, Quotes, Lyrics, Today in Beatles History, Pics, Polls, News, and more.",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 7726,
+          "friends_count": 6952,
+          "listed_count": 21,
+          "created_at": "Fri Jun 03 13:06:13 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": -21600,
+          "time_zone": "Central Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 6796,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "8B542B",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/310258146/1407682258",
+          "profile_link_color": "9D582E",
+          "profile_sidebar_border_color": "D9B17E",
+          "profile_sidebar_fill_color": "EADEAA",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "WordsThatDescribeMe",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              19,
+              39
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "beatles_lyrcs",
+            "name": "The Beatles Lyrics",
+            "id": 310258146,
+            "id_str": "310258146",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Nov 05 15:01:19 +0000 2014",
+      "id": 530011988152160260,
+      "id_str": "530011988152160257",
+      "text": "RT @beatles_lyrcs: #WordsThatDescribeMe Beatles Freak!",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 258652301,
+        "id_str": "258652301",
+        "name": "Mish.",
+        "screen_name": "DimpleszGee",
+        "location": "12.20.13",
+        "profile_location": null,
+        "description": "Steven Cesar Alvarado ❤️",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 371,
+        "friends_count": 354,
+        "listed_count": 1,
+        "created_at": "Mon Feb 28 05:03:42 +0000 2011",
+        "favourites_count": 2174,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7680,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0C9E9E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692907891/2c27e747d79e363f94005b68833759e3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692907891/2c27e747d79e363f94005b68833759e3.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/529481209114411008/fUAdulEs_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/529481209114411008/fUAdulEs_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258652301/1415200037",
+        "profile_link_color": "12948D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Wed Nov 05 15:00:22 +0000 2014",
+        "id": 530011746774564860,
+        "id_str": "530011746774564864",
+        "text": "#WordsThatDescribeMe Beatles Freak!",
+        "source": "<a href="http://mertmuratbal.com" rel="nofollow">beatles_lyrcs</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 310258146,
+          "id_str": "310258146",
+          "name": "The Beatles Lyrics",
+          "screen_name": "beatles_lyrcs",
+          "location": "Yesterday....",
+          "profile_location": null,
+          "description": "Your source for Beatle Facts, Quotes, Lyrics, Today in Beatles History, Pics, Polls, News, and more.",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 7726,
+          "friends_count": 6952,
+          "listed_count": 21,
+          "created_at": "Fri Jun 03 13:06:13 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": -21600,
+          "time_zone": "Central Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 6796,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "8B542B",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/310258146/1407682258",
+          "profile_link_color": "9D582E",
+          "profile_sidebar_border_color": "D9B17E",
+          "profile_sidebar_fill_color": "EADEAA",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "WordsThatDescribeMe",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              19,
+              39
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "beatles_lyrcs",
+            "name": "The Beatles Lyrics",
+            "id": 310258146,
+            "id_str": "310258146",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Wed Nov 05 15:00:22 +0000 2014",
+      "id": 530011746774564860,
+      "id_str": "530011746774564864",
+      "text": "#WordsThatDescribeMe Beatles Freak!",
+      "source": "<a href="http://mertmuratbal.com" rel="nofollow">beatles_lyrcs</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 310258146,
+        "id_str": "310258146",
+        "name": "The Beatles Lyrics",
+        "screen_name": "beatles_lyrcs",
+        "location": "Yesterday....",
+        "profile_location": null,
+        "description": "Your source for Beatle Facts, Quotes, Lyrics, Today in Beatles History, Pics, Polls, News, and more.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 7726,
+        "friends_count": 6952,
+        "listed_count": 21,
+        "created_at": "Fri Jun 03 13:06:13 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6796,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/310258146/1407682258",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              0,
+              20
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Tue Nov 04 14:28:02 +0000 2014",
+      "id": 529641222705799200,
+      "id_str": "529641222705799169",
+      "text": "#wordsthatdescribeme: Avada Kedavra because I've got a killer bod.",
+      "source": "<a href="http://luufy.com" rel="nofollow">voldemort_d</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 253029607,
+        "id_str": "253029607",
+        "name": "I am Lord Voldemort ",
+        "screen_name": "voldemort_d",
+        "location": "",
+        "profile_location": null,
+        "description": "Many of Voldemorts in Twitter. Don't u know which of us real one.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 4065,
+        "friends_count": 3202,
+        "listed_count": 5,
+        "created_at": "Wed Feb 16 12:14:33 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11391,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477382063708860417/xR15Yr_q_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477382063708860417/xR15Yr_q_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/253029607/1402651721",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "wordsthatdescribeme",
+            "indices":  [
+              0,
+              20
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Mon Nov 03 14:09:46 +0000 2014",
+      "id": 529274237089886200,
+      "id_str": "529274237089886209",
+      "text": "RT @beatles_lyrcs: #WordsThatDescribeMe Beatles Freak!",
+      "source": "<a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 879158995,
+        "id_str": "879158995",
+        "name": "cindy jessica",
+        "screen_name": "cindyjeys",
+        "location": "practice room",
+        "profile_location": null,
+        "description": "http://t.co/Q0kGUdLLe2 || http://t.co/u75ZCbf9eu || what music do you like? i like hiphop || A freelancer musician.",
+        "url": "http://t.co/VZ1TNOw0Mk",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/VZ1TNOw0Mk",
+                "expanded_url": "http://instagram.com/cindyjeys",
+                "display_url": "instagram.com/cindyjeys",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/Q0kGUdLLe2",
+                "expanded_url": "http://firefliesflying.blogspot.com",
+                "display_url": "firefliesflying.blogspot.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              },
+               {
+                "url": "http://t.co/u75ZCbf9eu",
+                "expanded_url": "http://bootsandsneakers.blogspot.com",
+                "display_url": "bootsandsneakers.blogspot.com",
+                "indices":  [
+                  26,
+                  48
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 491,
+        "friends_count": 217,
+        "listed_count": 0,
+        "created_at": "Sun Oct 14 02:31:27 +0000 2012",
+        "favourites_count": 33,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5441,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530381566535430145/NLmxAvtu_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530381566535430145/NLmxAvtu_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/879158995/1414523680",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Nov 03 13:00:20 +0000 2014",
+        "id": 529256764404170750,
+        "id_str": "529256764404170752",
+        "text": "#WordsThatDescribeMe Beatles Freak!",
+        "source": "<a href="http://mertmuratbal.com" rel="nofollow">beatles_lyrcs</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 310258146,
+          "id_str": "310258146",
+          "name": "The Beatles Lyrics",
+          "screen_name": "beatles_lyrcs",
+          "location": "Yesterday....",
+          "profile_location": null,
+          "description": "Your source for Beatle Facts, Quotes, Lyrics, Today in Beatles History, Pics, Polls, News, and more.",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 7726,
+          "friends_count": 6952,
+          "listed_count": 21,
+          "created_at": "Fri Jun 03 13:06:13 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": -21600,
+          "time_zone": "Central Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 6796,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "8B542B",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/310258146/1407682258",
+          "profile_link_color": "9D582E",
+          "profile_sidebar_border_color": "D9B17E",
+          "profile_sidebar_fill_color": "EADEAA",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "WordsThatDescribeMe",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              19,
+              39
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "beatles_lyrcs",
+            "name": "The Beatles Lyrics",
+            "id": 310258146,
+            "id_str": "310258146",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Mon Nov 03 13:08:47 +0000 2014",
+      "id": 529258889519173600,
+      "id_str": "529258889519173632",
+      "text": "RT @beatles_lyrcs: #WordsThatDescribeMe Beatles Freak!",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 80789371,
+        "id_str": "80789371",
+        "name": "KarmelaAnne",
+        "screen_name": "karmelalariego",
+        "location": "Qatar",
+        "profile_location": null,
+        "description": "Too blessed to be Stressed ❤ | Fil 19 | Qatar ✈ Manila",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 376,
+        "friends_count": 176,
+        "listed_count": 0,
+        "created_at": "Thu Oct 08 07:11:05 +0000 2009",
+        "favourites_count": 3871,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28140,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/508200148325773313/a2rUJunP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/508200148325773313/a2rUJunP.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530683276516532225/u5EN2abp_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530683276516532225/u5EN2abp_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80789371/1409997396",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Nov 03 13:00:20 +0000 2014",
+        "id": 529256764404170750,
+        "id_str": "529256764404170752",
+        "text": "#WordsThatDescribeMe Beatles Freak!",
+        "source": "<a href="http://mertmuratbal.com" rel="nofollow">beatles_lyrcs</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 310258146,
+          "id_str": "310258146",
+          "name": "The Beatles Lyrics",
+          "screen_name": "beatles_lyrcs",
+          "location": "Yesterday....",
+          "profile_location": null,
+          "description": "Your source for Beatle Facts, Quotes, Lyrics, Today in Beatles History, Pics, Polls, News, and more.",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 7726,
+          "friends_count": 6952,
+          "listed_count": 21,
+          "created_at": "Fri Jun 03 13:06:13 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": -21600,
+          "time_zone": "Central Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 6796,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "8B542B",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/310258146/1407682258",
+          "profile_link_color": "9D582E",
+          "profile_sidebar_border_color": "D9B17E",
+          "profile_sidebar_fill_color": "EADEAA",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "WordsThatDescribeMe",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              19,
+              39
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "beatles_lyrcs",
+            "name": "The Beatles Lyrics",
+            "id": 310258146,
+            "id_str": "310258146",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Mon Nov 03 13:03:28 +0000 2014",
+      "id": 529257553314603000,
+      "id_str": "529257553314603009",
+      "text": "RT @beatles_lyrcs: #WordsThatDescribeMe Beatles Freak!",
+      "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 742673845,
+        "id_str": "742673845",
+        "name": "SHL",
+        "screen_name": "ShlaAndiyan",
+        "location": "",
+        "profile_location": null,
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 709,
+        "friends_count": 319,
+        "listed_count": 0,
+        "created_at": "Tue Aug 07 10:59:38 +0000 2012",
+        "favourites_count": 38,
+        "utc_offset": 25200,
+        "time_zone": "Bangkok",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20929,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000067342771/f1d34319edfb713f83c78b2f06b95ea5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000067342771/f1d34319edfb713f83c78b2f06b95ea5.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/527471435346763780/l34XjJei_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/527471435346763780/l34XjJei_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/742673845/1411528716",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status":  {
+        "metadata":  {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "created_at": "Mon Nov 03 13:00:20 +0000 2014",
+        "id": 529256764404170750,
+        "id_str": "529256764404170752",
+        "text": "#WordsThatDescribeMe Beatles Freak!",
+        "source": "<a href="http://mertmuratbal.com" rel="nofollow">beatles_lyrcs</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user":  {
+          "id": 310258146,
+          "id_str": "310258146",
+          "name": "The Beatles Lyrics",
+          "screen_name": "beatles_lyrcs",
+          "location": "Yesterday....",
+          "profile_location": null,
+          "description": "Your source for Beatle Facts, Quotes, Lyrics, Today in Beatles History, Pics, Polls, News, and more.",
+          "url": null,
+          "entities":  {
+            "description":  {
+              "urls":  []
+            }
+          },
+          "protected": false,
+          "followers_count": 7726,
+          "friends_count": 6952,
+          "listed_count": 21,
+          "created_at": "Fri Jun 03 13:06:13 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": -21600,
+          "time_zone": "Central Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 6796,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "8B542B",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/310258146/1407682258",
+          "profile_link_color": "9D582E",
+          "profile_sidebar_border_color": "D9B17E",
+          "profile_sidebar_fill_color": "EADEAA",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "entities":  {
+          "hashtags":  [
+             {
+              "text": "WordsThatDescribeMe",
+              "indices":  [
+                0,
+                20
+              ]
+            }
+          ],
+          "symbols":  [],
+          "user_mentions":  [],
+          "urls":  []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              19,
+              39
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "beatles_lyrcs",
+            "name": "The Beatles Lyrics",
+            "id": 310258146,
+            "id_str": "310258146",
+            "indices":  [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+     {
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Mon Nov 03 13:00:20 +0000 2014",
+      "id": 529256764404170750,
+      "id_str": "529256764404170752",
+      "text": "#WordsThatDescribeMe Beatles Freak!",
+      "source": "<a href="http://mertmuratbal.com" rel="nofollow">beatles_lyrcs</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 310258146,
+        "id_str": "310258146",
+        "name": "The Beatles Lyrics",
+        "screen_name": "beatles_lyrcs",
+        "location": "Yesterday....",
+        "profile_location": null,
+        "description": "Your source for Beatle Facts, Quotes, Lyrics, Today in Beatles History, Pics, Polls, News, and more.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 7726,
+        "friends_count": 6952,
+        "listed_count": 21,
+        "created_at": "Fri Jun 03 13:06:13 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6796,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498480816570126337/WWOBkAQ3_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/310258146/1407682258",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "WordsThatDescribeMe",
+            "indices":  [
+              0,
+              20
+            ]
+          }
+        ],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.035,
+    "max_id": 530770310380154900,
+    "max_id_str": "530770310380154880",
+    "next_results": "?max_id=529256764404170751&q=%23WordsThatDescribeMe&include_entities=1",
+    "query": "%23WordsThatDescribeMe",
+    "refresh_url": "?since_id=530770310380154880&q=%23WordsThatDescribeMe&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
