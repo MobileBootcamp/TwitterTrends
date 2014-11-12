@@ -10,6 +10,13 @@ public class Trend {
 
   private String name;
 
+  public Trend() {
+  }
+
+  public Trend(String name) {
+    this.name = name;
+  }
+
   public String getName() {
     return name;
   }

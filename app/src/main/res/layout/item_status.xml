@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/small">
+
+  <ImageView
+      android:id="@+id/user_profile_image"
+      android:layout_width="@dimen/large"
+      android:layout_height="@dimen/large"
+      android:layout_alignParentTop="true"
+      android:layout_alignParentLeft="true"
+      android:layout_alignParentStart="true"/>
+
+  <TextView
+      android:id="@+id/user_name"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      android:layout_alignParentTop="true"
+      android:layout_marginLeft="@dimen/medium"
+      android:layout_toRightOf="@+id/user_profile_image"/>
+
+  <TextView
+      android:id="@+id/user_screen_name"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textColor="@android:color/darker_gray"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      android:layout_alignParentTop="true"
+      android:layout_marginLeft="@dimen/small"
+      android:layout_toRightOf="@+id/user_name"/>
+
+  <TextView
+      android:id="@+id/status_text"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginTop="@dimen/small"
+      android:layout_below="@+id/user_name"
+      android:layout_alignLeft="@+id/user_name"
+      android:layout_toRightOf="@+id/user_profile_image"
+      android:layout_toEndOf="@+id/user_profile_image"/>
+
+</RelativeLayout>

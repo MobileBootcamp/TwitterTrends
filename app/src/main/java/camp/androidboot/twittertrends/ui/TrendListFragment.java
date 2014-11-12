@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
+import camp.androidboot.twittertrends.R;
 import camp.androidboot.twittertrends.model.Trend;
 import java.util.List;
 
@@ -28,20 +29,39 @@ public class TrendListFragment extends ListFragment implements AdapterView.OnIte
   }
 
   @Override
-  public void onActivityCreated(Bundle savedInstanceState) {
-    super.onActivityCreated(savedInstanceState);
-
-    adapter = new TrendAdapter(getActivity());
-    setListAdapter(adapter);
-  }
-
-  @Override
   public void onAttach(Activity activity) {
     super.onAttach(activity);
 
     if (!(activity instanceof Callbacks)) {
       throw new IllegalStateException("Activity must implement TrendListFragment.Callbacks");
     }
+  }
+
+  @Override
+  public void onActivityCreated(Bundle savedInstanceState) {
+    super.onActivityCreated(savedInstanceState);
+
+    setupActionBar();
+    if (adapter == null) {
+      setupAdapter();
+    }
+    getListView().setOnItemClickListener(this);
+  }
+
+  /**
+   *
+   */
+  private void setupActionBar() {
+    getActivity().getActionBar().setDisplayHomeAsUpEnabled(false);
+    getActivity().getActionBar().setTitle(R.string.app_name);
+  }
+
+  /**
+   *
+   */
+  private void setupAdapter() {
+    adapter = new TrendAdapter(getActivity());
+    setListAdapter(adapter);
   }
 
   @Override
@@ -54,7 +74,7 @@ public class TrendListFragment extends ListFragment implements AdapterView.OnIte
    *
    * @param trends
    */
-  public void addTrends(List<Trend> trends) {
+  void addTrends(List<Trend> trends) {
     adapter.addAll(trends);
     adapter.notifyDataSetChanged();
   }
@@ -70,11 +90,11 @@ public class TrendListFragment extends ListFragment implements AdapterView.OnIte
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-      Trend trend = getItem(position);
+      final Trend trend = getItem(position);
 
       if (convertView == null) {
-        convertView =
-            LayoutInflater.from(getContext()).inflate(android.R.layout.simple_list_item_1, null);
+        LayoutInflater inflater = LayoutInflater.from(getContext());
+        convertView = inflater.inflate(android.R.layout.simple_list_item_1, null);
       }
 
       TextView nameUi = (TextView) convertView.findViewById(android.R.id.text1);
@@ -87,7 +107,7 @@ public class TrendListFragment extends ListFragment implements AdapterView.OnIte
   /**
    *
    */
-  public interface Callbacks {
+  interface Callbacks {
     void onTrendClick(Trend trend);
   }
 }

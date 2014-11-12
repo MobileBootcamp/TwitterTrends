@@ -11,6 +11,9 @@ public class User {
   private String profileImageUrl;
   private String profileLinkColor;
 
+  public User() {
+  }
+
   public long getId() {
     return id;
   }

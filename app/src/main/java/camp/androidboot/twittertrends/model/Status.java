@@ -10,6 +10,9 @@ public class Status {
   private String createdAt;
   private User user;
 
+  public Status() {
+  }
+
   public long getId() {
     return id;
   }
