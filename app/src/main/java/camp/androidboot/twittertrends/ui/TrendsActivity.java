@@ -15,7 +15,13 @@ import retrofit.client.Response;
 /**
  *
  */
-public class TrendsActivity extends Activity {
+public class TrendsActivity extends Activity implements TrendListFragment.Callbacks {
+
+  private static final String FRAGMENT_TAG = "fragment_tag";
+
+  private TwitterLite twitterLite;
+
+  private TrendListFragment trendListFragment;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
@@ -23,13 +29,25 @@ public class TrendsActivity extends Activity {
 
     setContentView(R.layout.activity_trends);
 
-    TwitterLite twitterLite = ((TwitterTrendsApplication) getApplication()).getTwitterLite();
+    twitterLite = ((TwitterTrendsApplication) getApplication()).getTwitterLite();
+    addInitialFragment();
+    getTrends();
+  }
+
+  private void addInitialFragment() {
+    trendListFragment = TrendListFragment.newInstance();
+
+    getFragmentManager()
+        .beginTransaction()
+        .add(R.id.content_frame, trendListFragment, FRAGMENT_TAG)
+        .commit();
+  }
+
+  private void getTrends() {
     twitterLite.trends(new Callback<List<Trend>>() {
       @Override
       public void success(List<Trend> trends, Response response) {
-        for (Trend trend : trends) {
-          Toast.makeText(TrendsActivity.this, trend.getName(), Toast.LENGTH_SHORT).show();
-        }
+        trendListFragment.addTrends(trends);
       }
 
       @Override
@@ -37,5 +55,10 @@ public class TrendsActivity extends Activity {
         Toast.makeText(TrendsActivity.this, "error: " + error.toString(), Toast.LENGTH_SHORT).show();
       }
     });
+  }
+
+  @Override
+  public void onTrendClick(Trend trend) {
+    Toast.makeText(this, "trend: " + trend.getName(), Toast.LENGTH_SHORT).show();
   }
 }
